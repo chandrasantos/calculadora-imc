@@ -1,5 +1,8 @@
 # Calculadora IMC
 
+<div><img src="https://media2.giphy.com/media/1gVUhC7KsdFO81wsGb/giphy.gif?cid=ecf05e47qxyra1lnwvallzaqww7qw5tiiffbbvsmd1r61ie2&rid=giphy.gif&ct=g"></div>
+
+
 ## Como calcular o IMC?
 Para calcular o IMC (Índice de Massa Corporal), basta preencher os campos com seu peso e altura. 
 
