@@ -19,3 +19,5 @@ Menor que 18,5	| Magreza
 30 a 34,9	| Obesidade grau I
 35 a 39,9 |	Obesidade grau II
 Maior que 40 | Obesidade grau III
+
+<b>OBS.: para verificar a execução do programa basta abrir o arquivo HTML dentro do Google Chrome, apertar F12 para abrir o Chrome DevTools, acessar a aba “console” e chamar a função IMC (**inseriro o peso em kg**, **inserir a altura em metros**).</b>
