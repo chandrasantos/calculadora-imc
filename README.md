@@ -24,3 +24,6 @@ Maior que 40 | Obesidade grau III
 ## <b>Arquivo IMC.HTML</b>
 
 <b>OBS.: para verificar a execução do programa basta abrir o arquivo HTML dentro do Google Chrome, apertar F12 para abrir o Chrome DevTools, acessar a aba “console” e chamar a função IMC (**inserir o peso em kg**, **inserir a altura em metros**).</b>
+
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6962867158221496320" height="490" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>
